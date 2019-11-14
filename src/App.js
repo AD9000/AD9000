@@ -27,7 +27,7 @@ class App extends React.Component {
             Atharv Damle
           </Typography>
           <Typography variant="h4" component="h2">
-            aka Arthur/Al
+            Unsw Student | Software Developer
           </Typography>
         </Grid>
         <Dock />
