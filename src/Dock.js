@@ -6,11 +6,11 @@ import "./Dock.css";
 
 export class Dock extends React.Component {
   handleGitClick = e => {
-    window.location = "https://github.com/AD9000";
+    window.open("https://github.com/AD9000");
   };
 
   handleLinkedInClick = e => {
-    window.location = "https://www.linkedin.com/in/atharv-damle";
+    window.open("https://www.linkedin.com/in/atharv-damle");
   };
   render() {
     return (
