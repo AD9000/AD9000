@@ -8,12 +8,13 @@ class App extends React.Component {
   componentDidMount = () => {
     document.title = "AD9000";
   };
+
   render() {
     return (
       <div className="App">
         <Grid
           container
-          style={{ height: "98%" }}
+          style={{ height: "100%" }}
           align="center"
           justify="center"
           className="App"
