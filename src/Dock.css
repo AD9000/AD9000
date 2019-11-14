@@ -1,0 +1,14 @@
+.Dock {
+  margin: 10px;
+  display: flex;
+  /* background-color: blue; */
+}
+
+.DockIcon {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.DockIcon:hover {
+  transform: scale(1.5);
+}
