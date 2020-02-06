@@ -4,7 +4,7 @@
 }
 
 .DockIcon {
-  padding: 5px;
+  padding: 0.1rem;
   margin-bottom: 10px;
   transition: transform 0.2s;
 }
@@ -12,4 +12,5 @@
 .DockIcon:hover {
   transform: scale(1.5);
   margin-bottom: 0;
+  padding: 0 1.1rem;
 }
