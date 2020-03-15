@@ -5,6 +5,7 @@
 
 .DockIcon {
   padding: 0.1rem;
+  margin-top: 15px;
   margin-bottom: 10px;
   transition: transform 0.2s;
 }
@@ -13,4 +14,8 @@
   transform: scale(1.5);
   margin-bottom: 0;
   padding: 0 1.1rem;
+}
+
+.DockBackground {
+  background-color: transparent;
 }
